@@ -1,7 +1,7 @@
 # Creating_synthetic_360_degree_Equirectangular_image
 We share the code for creating a Equirectangular image. The above code is a program that creates a Equirectangular image using six cube map 
 # Process of creating synthetic_360_degree_Equirectangular_image
-<img width="90%" src="https://user-images.githubusercontent.com/76198695/163322140-a2d2fed9-16aa-4576-8e7d-ede71ed30511.png"/>
+<img width="90%" src="https://user-images.githubusercontent.com/76198695/163326479-711ef51f-b361-4ed7-ae3f-86425a2198af.png"/>
 
 # Equirectangular image dataset
 <img width="90%" src="https://user-images.githubusercontent.com/76198695/163325810-4797cc1d-e82b-46ff-8602-4dfbad3d53f0.png"/>  
