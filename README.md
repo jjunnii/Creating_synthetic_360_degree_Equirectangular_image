@@ -4,11 +4,12 @@ We share the code for creating a Equirectangular image. The above code is a prog
 <img width="90%" src="https://user-images.githubusercontent.com/76198695/163322140-a2d2fed9-16aa-4576-8e7d-ede71ed30511.png"/>
 
 # Equirectangular image dataset
-<img width="90%" src="https://user-images.githubusercontent.com/76198695/163325810-4797cc1d-e82b-46ff-8602-4dfbad3d53f0.png"/>
-I used the carla simulator to create more than 100,000 Equirectangular images in various environments. If you need this dataset, please contact me by email.  
+<img width="90%" src="https://user-images.githubusercontent.com/76198695/163325810-4797cc1d-e82b-46ff-8602-4dfbad3d53f0.png"/>  
+
+**I used the carla simulator to create more than 100,000 Equirectangular images in various environments. If you need this dataset, please contact me by email.**  
 
 
-My email : <cjswpwjrdls@gmail.com>
+**My email : <cjswpwjrdls@gmail.com>**
 
 # Reference  
 
