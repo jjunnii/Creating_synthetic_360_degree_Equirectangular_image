@@ -6,7 +6,7 @@ We share the code for creating a Equirectangular image. The above code is a prog
 # Equirectangular image dataset
 <img width="100%" src="https://user-images.githubusercontent.com/76198695/163325810-4797cc1d-e82b-46ff-8602-4dfbad3d53f0.png"/>  
 
-**I used the carla simulator to create more than 100,000 Equirectangular images in various environments. If you need this dataset, please contact me by email.**  
+**I used the carla simulator to create more than 100,000 equirectangular images in various environments. If you need this dataset, please contact me by email.**  
 
 
 **My email : <cjswpwjrdls@gmail.com>**
